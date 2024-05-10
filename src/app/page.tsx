@@ -1,9 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 'use client'
-import { useEffect, useState } from 'react'
-
-const axios = require('axios').default
-
+import { useState } from 'react'
+const axios = require('axios')
 type Article = {
 	author: string
 	title: string
@@ -14,33 +12,28 @@ type Article = {
 	content: string | null
 }
 
-type Filter = {
-	category: string
-}
-
 export default function Home() {
 	const [data, setData] = useState<Article[]>(require('./data.json'))
 	const [category, setCategory] = useState('')
 	const [q, setQ] = useState('')
 
 	const search = async () => {
-		const res = await fetch(
+		const res = await axios.get(
 			`https://newsapi.org/v2/top-headlines?category=${category}&q=${q}&country=tr&apiKey=c2cea7def2584ae29ff501f6a2e61f34`
 		)
-		const d = await res.json()
-		setData(d.articles)
+		setData(res.data.articles)
 	}
 
 	return (
-		<div className="w-full flex items-center gap-4 flex-col bg-black">
+		<div className="w-full flex items-center gap-4 flex-col p-4">
 			<form
-				className="example p-4 flex flex-col gap-4 border rounded-lg w-2/3 "
+				className="example p-4 flex flex-col gap-4 border border-slate-400 rounded-lg w-full "
 				action={search}>
 				<label htmlFor="category">
 					Kategori Seç: {''}
 					<select
 						id="category"
-						className="w-fit p-2 text-black"
+						className="w-fit p-2 border rounded-lg border-slate-400"
 						onChange={e => setCategory(e.target.value)}>
 						<option value="business">İş</option>
 						<option value="entertainment">Eğlence</option>
@@ -56,9 +49,11 @@ export default function Home() {
 						type="text"
 						placeholder="Ara.."
 						name="search"
-						className="p-2 rounded mr-2 text-black"
+						className="p-2 rounded-lg mr-2 text-black border border-slate-400"
 						onChange={e => setQ(e.target.value)}></input>
-					<button type="submit">
+					<button
+						type="submit"
+						className="btn border border-slate-400 rounded-lg">
 						<i className="fa fa-search p-2"></i>
 					</button>
 				</div>
@@ -66,7 +61,7 @@ export default function Home() {
 			{data.map((article: Article, id: number) => (
 				<div
 					key={id}
-					className="rounded-lg bg-neutral-300 w-2/3 h-auto text-zinc-900">
+					className="rounded-lg bg-neutral-300 w-full h-auto text-zinc-900">
 					{article.urlToImage && (
 						<a href={article.url}>
 							<img
@@ -82,9 +77,11 @@ export default function Home() {
 						</h1>
 						<p>{article.description}</p>
 						<p>{article.content}</p>
-						<button className=" bg-red-500 rounded-lg p-4 text-white">
+						<a
+							href={article.url}
+							className=" bg-red-500 rounded-lg p-4 text-white text-center">
 							Kaynağa Git
-						</button>
+						</a>
 					</div>
 				</div>
 			))}
