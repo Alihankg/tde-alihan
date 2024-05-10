@@ -1,7 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 'use client'
-import { useState } from 'react'
-const axios = require('axios')
+import { useEffect, useState } from 'react'
 type Article = {
 	author: string
 	title: string
@@ -14,21 +13,19 @@ type Article = {
 
 export default function Home() {
 	const [data, setData] = useState<Article[]>(require('./data.json'))
-	const [category, setCategory] = useState('')
-	const [q, setQ] = useState('')
+	const [category, setCategory] = useState('business')
 
-	const search = async () => {
-		const res = await axios.get(
-			`https://newsapi.org/v2/top-headlines?category=${category}&q=${q}&country=tr&apiKey=c2cea7def2584ae29ff501f6a2e61f34`
+	useEffect(() => {
+		fetch(
+			`https://newsapi.org/v2/top-headlines?category=${category}&country=tr&apiKey=c2cea7def2584ae29ff501f6a2e61f34`
 		)
-		setData(res.data.articles)
-	}
+			.then(res => res.json())
+			.then(data => setData(data.articles))
+	}, [category])
 
 	return (
 		<div className="w-full flex items-center gap-4 flex-col p-4">
-			<form
-				className="example p-4 flex flex-col gap-4 border border-slate-400 rounded-lg w-full "
-				action={search}>
+			<div className="p-4 border border-slate-400 rounded-lg w-full ">
 				<label htmlFor="category">
 					Kategori Seç: {''}
 					<select
@@ -44,20 +41,7 @@ export default function Home() {
 						<option value="technology">Teknoloji</option>
 					</select>
 				</label>
-				<div>
-					<input
-						type="text"
-						placeholder="Ara.."
-						name="search"
-						className="p-2 rounded-lg mr-2 text-black border border-slate-400"
-						onChange={e => setQ(e.target.value)}></input>
-					<button
-						type="submit"
-						className="btn border border-slate-400 rounded-lg">
-						<i className="fa fa-search p-2"></i>
-					</button>
-				</div>
-			</form>
+			</div>
 			{data.map((article: Article, id: number) => (
 				<div
 					key={id}
