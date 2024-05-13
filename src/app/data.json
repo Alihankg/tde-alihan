@@ -1,262 +1,237 @@
-[
-	{
-		"source": {
-			"id": null,
-			"name": "Yahoo Entertainment"
+{
+	"status": "success",
+	"totalResults": 12805,
+	"results": [
+		{
+			"article_id": "cf0b67ade6a85dd7c0194771720294c9",
+			"title": "İsrail saldırılarında biri gazeteci çok sayıda kişi yaşamını yitirdi",
+			"link": "https://www.tgrthaber.com/dunya/israil-saldirilarinda-biri-gazeteci-cok-sayida-kisi-yasamini-yitirdi-2949456",
+			"keywords": ["dünya"],
+			"creator": null,
+			"video_url": null,
+			"description": "İsrail ordusu yine Gazze'nin pek çok yerine saldırı düzenledi. Aralarında biri gazeteci çok sayıda kişi hayatını kaybetti.",
+			"content": "ONLY AVAILABLE IN PAID PLANS",
+			"pubDate": "2024-05-11 02:16:42",
+			"image_url": "https://i.tgrthaber.com/images/haberler/24-05/11/israil-saldirilarinda-biri-gazeteci-cok-sayida-kisi-yasamini-yitirdi-17153938227574.jpg",
+			"source_id": "tgrthaber",
+			"source_priority": 662863,
+			"source_url": "https://www.tgrthaber.com.tr",
+			"source_icon": null,
+			"language": "turkish",
+			"country": ["turkey"],
+			"category": ["top"],
+			"ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"ai_region": "ONLY AVAILABLE IN CORPORATE PLANS"
 		},
-		"author": "Jason Owens",
-		"title": "NBA playoffs: Celtics cruise to Game 1 win over Cavaliers behind big night from Jaylen Brown, Derrick White - Yahoo Sports",
-		"description": "Jayson Tatum struggled from the field. But for a Celtics team loaded with weapons, it didn't matter.",
-		"url": "https://sports.yahoo.com/nba-playoffs-celtics-cruise-to-game-1-win-over-cavaliers-behind-big-night-from-jaylen-brown-derrick-white-011844326.html",
-		"urlToImage": "https://s.yimg.com/ny/api/res/1.2/XugfsvKPvdsT07TRRJ.iSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/ab6ec1d0-0cd3-11ef-bbdd-4c944e7dd1e0",
-		"publishedAt": "2024-05-08T01:44:00Z",
-		"content": "Jaylen Brown set the Cleveland Cavaliers up Tuesday night. Derrick White knocked them down.\r\nIn the end, the Boston Celtics had too much firepower for an outmatched Cavaliers team. The Celtics rolled… [+2789 chars]"
-	},
-	{
-		"source": {
-			"id": "associated-press",
-			"name": "Associated Press"
+		{
+			"article_id": "cbeb2dc4c367b82e395921331e91e6d2",
+			"title": "Dikloron hap fiyatı ne kadar?",
+			"link": "https://www.milligazete.com.tr/haber/20137032/dikloron-hap-fiyati-ne-kadar",
+			"keywords": ["sağlık,özgün"],
+			"creator": null,
+			"video_url": null,
+			"description": "Dikloron hap, ağrı ve iltihap gibi durumlar için kullanılan, NSAİİ grubu bir ilaçtır. Bu yazıda, Dikloron hap ile ilgili kapsamlı bilgiler vereceğiz.",
+			"content": "ONLY AVAILABLE IN PAID PLANS",
+			"pubDate": "2024-05-11 02:05:00",
+			"image_url": "https://static.daktilo.com/sites/71/uploads/2024/05/10/large/dikloron-hap-fiyati-ne-kadar.webp",
+			"source_id": "milligazete_tr",
+			"source_priority": 1042548,
+			"source_url": "https://www.milligazete.com.tr",
+			"source_icon": "https://i.bytvi.com/domain_icons/milligazete_tr.png",
+			"language": "turkish",
+			"country": ["turkey"],
+			"category": ["top"],
+			"ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"ai_region": "ONLY AVAILABLE IN CORPORATE PLANS"
 		},
-		"author": "THE ASSOCIATED PRESS",
-		"title": "Drake house shooting: Police investigating, security injured - The Associated Press",
-		"description": "Police are investigating a shooting outside rapper Drake’s mansion that left a security guard seriously wounded. Authorities did not confirm whether Drake was at home at the time of the shooting, but said his team is cooperating. The shooting happened around …",
-		"url": "https://apnews.com/article/drake-shooting-toronto-mansion-03741edc5b50c9cab8424c7fa15adab1",
-		"urlToImage": "https://dims.apnews.com/dims4/default/df3dbf4/2147483647/strip/true/crop/3000x1688+0+172/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F76%2F5755d60b382e458ff08acbf93f88%2F8dc50c10c7684ffeb345e6f9bc4eb535",
-		"publishedAt": "2024-05-08T01:29:00Z",
-		"content": "TORONTO (AP) Police are investigating a shooting outside rapper Drakes mansion in Toronto that left a security guard seriously wounded.\r\nAuthorities did not confirm whether Drake was at home at the t… [+1398 chars]"
-	},
-	{
-		"source": {
-			"id": null,
-			"name": "WWMT-TV"
+		{
+			"article_id": "fe0531063c4c7e4e90bdd9575e4b9273",
+			"title": "GZT'ye İletişimin Gücü Ödülü",
+			"link": "https://www.yenisafak.com/gundem/gztye-iletisimin-gucu-odulu-4620344",
+			"keywords": ["gündem"],
+			"creator": null,
+			"video_url": null,
+			"description": "MÜSİAD tarafından verilen ‘Türkiye'nin Gücü Ödülleri’ sahiplerini buldu. Albayrak Medya'nın yeni nesil sosyal içerik pl...",
+			"content": "ONLY AVAILABLE IN PAID PLANS",
+			"pubDate": "2024-05-11 02:02:52",
+			"image_url": "https://img.piri.net/piri/upload/3/2024/5/11/c6acebca-fhmcyzigll9eo01rhrrf84.jpeg",
+			"source_id": "yenisafak",
+			"source_priority": 138989,
+			"source_url": "https://www.yenisafak.com",
+			"source_icon": "https://i.bytvi.com/domain_icons/yenisafak.jpg",
+			"language": "turkish",
+			"country": ["turkey"],
+			"category": ["top"],
+			"ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"ai_region": "ONLY AVAILABLE IN CORPORATE PLANS"
 		},
-		"author": "News Channel 3",
-		"title": "NWS: Tornado touches down near Decatur; tornado warning issued for Calhoun County - WWMT-TV",
-		"description": "Update 7:37 p.m. - A tornado warning has been issued for Calhoun County until 8:30 p.m.",
-		"url": "https://wwmt.com/news/local/nws-tornado-touches-down-near-decatur-van-buren-county-residents-take-shelter-severe-weather-alert-kalamazoo-county-west-michigan",
-		"urlToImage": "https://wwmt.com/resources/media/d45f6b1b-2d2e-48ce-a643-63de11cc045d-large16x9_Capture.PNG",
-		"publishedAt": "2024-05-08T00:37:01Z",
-		"content": "DECATUR, Mich. Update 7:37 p.m. - A tornado warning has been issued for Calhoun County until 8:30 p.m.\r\n__________________________________________________________________________________________\r\nUpd… [+582 chars]"
-	},
-	{
-		"source": {
-			"id": "the-wall-street-journal",
-			"name": "The Wall Street Journal"
+		{
+			"article_id": "2b5e6580b305066fa922d9d5fb0ae43c",
+			"title": "79 yıl sonra Kariye'de cuma namazı",
+			"link": "https://www.yenisafak.com/gundem/79-yil-sonra-kariyede-cuma-namazi-4620345",
+			"keywords": ["gündem"],
+			"creator": null,
+			"video_url": null,
+			"description": "Fatih'te bulunan ve 79 yıl sonra yeniden ibadete açılan Kariye Camii'nde, ilk cuma namazı eda edildi. Cumhurbaşkanlığı’...",
+			"content": "ONLY AVAILABLE IN PAID PLANS",
+			"pubDate": "2024-05-11 02:02:52",
+			"image_url": "https://img.piri.net/piri/upload/3/2024/5/11/179e2576-cxdv0hk0yuavgt31tjvwhq.jpeg",
+			"source_id": "yenisafak",
+			"source_priority": 138989,
+			"source_url": "https://www.yenisafak.com",
+			"source_icon": "https://i.bytvi.com/domain_icons/yenisafak.jpg",
+			"language": "turkish",
+			"country": ["turkey"],
+			"category": ["top"],
+			"ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"ai_region": "ONLY AVAILABLE IN CORPORATE PLANS"
 		},
-		"author": "The Wall Street Journal",
-		"title": "FDIC Investigation Finds Culture Rife With Sexual Harassment, Discrimination - The Wall Street Journal",
-		"description": null,
-		"url": "https://www.wsj.com/finance/regulation/fdic-investigation-report-discrimination-harassment-522d43d9",
-		"urlToImage": null,
-		"publishedAt": "2024-05-08T00:29:00Z",
-		"content": null
-	},
-	{
-		"source": {
-			"id": null,
-			"name": "CBS Sports"
+		{
+			"article_id": "b460811b992afc5fd3388684361d9582",
+			"title": "Yedi kamu bankasına tek ATM",
+			"link": "https://www.yenisafak.com/ekonomi/yedi-kamu-bankasina-tek-atm-4620346",
+			"keywords": ["ekonomi"],
+			"creator": null,
+			"video_url": null,
+			"description": "Türkiye'nin ATM Merkezi (TAM) projesi, dün İstanbul Finans Merkezi'ndeki VakıfBank Genel Müdürlüğü'nde düzenlenen topla...",
+			"content": "ONLY AVAILABLE IN PAID PLANS",
+			"pubDate": "2024-05-11 02:02:52",
+			"image_url": "https://img.piri.net/piri/upload/3/2024/5/11/9b77943d-s37pzk6lmjffcyedzbauwa.jpeg",
+			"source_id": "yenisafak",
+			"source_priority": 138989,
+			"source_url": "https://www.yenisafak.com",
+			"source_icon": "https://i.bytvi.com/domain_icons/yenisafak.jpg",
+			"language": "turkish",
+			"country": ["turkey"],
+			"category": ["top"],
+			"ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"ai_region": "ONLY AVAILABLE IN CORPORATE PLANS"
 		},
-		"author": "",
-		"title": "2024 NFL schedule release sneak peek: Here are seven things we already know about this year's slate of games - CBS Sports",
-		"description": "The 2024 schedule isn't out yet, but we already know quite a few things about this year's slate of games",
-		"url": "https://www.cbssports.com/nfl/news/2024-nfl-schedule-release-sneak-peek-here-are-seven-things-we-already-know-about-this-years-slate-of-games/",
-		"urlToImage": "https://sportshub.cbsistatic.com/i/r/2019/03/26/31a7ec6e-b846-47d5-8b2e-7eba37233a86/thumbnail/1200x675/ec88302ab4c7cf5a41a4342c449ae2fc/usatsi-12237743.jpg",
-		"publishedAt": "2024-05-08T00:23:00Z",
-		"content": "With the NFL Draft officially in the rearview mirror, there's only one big event left on the NFL's offseason calendar and that's the release of the schedule. The only problem with this year's release… [+3607 chars]"
-	},
-	{
-		"source": {
-			"id": null,
-			"name": "BBC News"
+		{
+			"article_id": "6f43e194d7a544d1e0ee748121607b99",
+			"title": "İşsizlik 11 aydır tek hanede",
+			"link": "https://www.yenisafak.com/ekonomi/issizlik-11-aydir-tek-hanede-4620347",
+			"keywords": ["ekonomi"],
+			"creator": null,
+			"video_url": null,
+			"description": "Türkiye'de işsizlik oranı, martta bir önceki aya göre 0,1 puan azalarak yüzde 8,6 oldu. Türkiye İstatistik Kurumu (TÜİK...",
+			"content": "ONLY AVAILABLE IN PAID PLANS",
+			"pubDate": "2024-05-11 02:02:52",
+			"image_url": "https://img.piri.net/piri/upload/3/2024/5/11/085ab0f0-vdo2dxsuj7nu98qybva8cg.jpeg",
+			"source_id": "yenisafak",
+			"source_priority": 138989,
+			"source_url": "https://www.yenisafak.com",
+			"source_icon": "https://i.bytvi.com/domain_icons/yenisafak.jpg",
+			"language": "turkish",
+			"country": ["turkey"],
+			"category": ["top"],
+			"ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"ai_region": "ONLY AVAILABLE IN CORPORATE PLANS"
 		},
-		"author": null,
-		"title": "TikTok sues to block US law which could ban app - BBC.com",
-		"description": "TikTok said the measure was an \"extraordinary intrusion on free speech rights\".",
-		"url": "https://www.bbc.com/news/articles/c72pqlgqe4jo",
-		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/37e6/live/0660b600-0c90-11ef-91ef-3101b349bfcd.jpg",
-		"publishedAt": "2024-05-08T00:22:37Z",
-		"content": null
-	},
-	{
-		"source": {
-			"id": null,
-			"name": "[Removed]"
+		{
+			"article_id": "c983805999afbc5776a80a4cef0c71c2",
+			"title": "Küresel film eylemi yapılmalı",
+			"link": "https://www.yenisafak.com/hayat/kuresel-film-eylemi-yapilmali-4620343",
+			"keywords": ["hayat"],
+			"creator": null,
+			"video_url": null,
+			"description": "İnsanlık tarihinin binlerce yıllık birikimini tecrübe olarak önümüze koyan iki unsur bilim ve sanattır. Bilimsel bulgul...",
+			"content": "ONLY AVAILABLE IN PAID PLANS",
+			"pubDate": "2024-05-11 02:02:50",
+			"image_url": "https://img.piri.net/piri/upload/3/2024/5/11/732fa3a8-dtpjcvv3mzlpurm0fvufvo.jpeg",
+			"source_id": "yenisafak",
+			"source_priority": 138989,
+			"source_url": "https://www.yenisafak.com",
+			"source_icon": "https://i.bytvi.com/domain_icons/yenisafak.jpg",
+			"language": "turkish",
+			"country": ["turkey"],
+			"category": ["top"],
+			"ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"ai_region": "ONLY AVAILABLE IN CORPORATE PLANS"
 		},
-		"author": null,
-		"title": "[Removed]",
-		"description": "[Removed]",
-		"url": "https://removed.com",
-		"urlToImage": null,
-		"publishedAt": "1970-01-01T00:00:00Z",
-		"content": "[Removed]"
-	},
-	{
-		"source": {
-			"id": "cnn",
-			"name": "CNN"
+		{
+			"article_id": "731c79b9102b7247bd6d93324d1bc2c8",
+			"title": "İsrail'den Gazze'ye saldırılar: Çok sayıda ölü var",
+			"link": "https://www.trthaber.com/haber/dunya/israilden-gazzeye-saldirilar-cok-sayida-olu-var-856819.html",
+			"keywords": ["dünya"],
+			"creator": null,
+			"video_url": null,
+			"description": null,
+			"content": "ONLY AVAILABLE IN PAID PLANS",
+			"pubDate": "2024-05-11 02:02:00",
+			"image_url": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2196000/israil-gazze-saldiri-aa-2196146.jpg",
+			"source_id": "trthaber",
+			"source_priority": 89389,
+			"source_url": "https://www.trthaber.com",
+			"source_icon": "https://i.bytvi.com/domain_icons/trthaber.png",
+			"language": "turkish",
+			"country": ["turkey"],
+			"category": ["top"],
+			"ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"ai_region": "ONLY AVAILABLE IN CORPORATE PLANS"
 		},
-		"author": "Katelyn  Polantz, Hannah Rabinowitz, Holmes Lybrand, Tierney Sneed",
-		"title": "Federal judge indefinitely postpones Trump classified documents trial - CNN",
-		"description": "Judge Aileen Cannon has indefinitely postponed former President Donald Trump’s classified documents trial in Florida, citing significant issues around classified evidence that would need to be worked out before the federal criminal case goes to a jury.",
-		"url": "https://www.cnn.com/2024/05/07/politics/judge-postpones-trump-classified-documents-trial/index.html",
-		"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1995667055.jpg?c=16x9&q=w_800,c_fill",
-		"publishedAt": "2024-05-08T00:10:00Z",
-		"content": "Judge Aileen Cannon has indefinitely postponed former President Donald Trumps classified documents trial in Florida, citing significant issues around classified evidence that would need to be worked … [+3192 chars]"
-	},
-	{
-		"source": {
-			"id": "espn",
-			"name": "ESPN"
+		{
+			"article_id": "80829b6ac9ffc96b3463c66eba06d1f3",
+			"title": "Franklin Electric yöneticisi 225 bin doların üzerinde şirket hissesi sattı",
+			"link": "https://tr.investing.com/news/company-news/franklin-electric-yoneticisi-225-bin-dolarn-uzerinde-sirket-hissesi-satt-93CH-2841782",
+			"keywords": null,
+			"creator": ["Investing.com"],
+			"video_url": null,
+			"description": null,
+			"content": "ONLY AVAILABLE IN PAID PLANS",
+			"pubDate": "2024-05-11 02:00:10",
+			"image_url": "https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg",
+			"source_id": "investing_tr",
+			"source_priority": 1205,
+			"source_url": "https://tr.investing.com",
+			"source_icon": "https://i.bytvi.com/domain_icons/investing_tr.png",
+			"language": "turkish",
+			"country": ["turkey"],
+			"category": ["top"],
+			"ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"ai_region": "ONLY AVAILABLE IN CORPORATE PLANS"
 		},
-		"author": null,
-		"title": "Nuggets' Jamal Murray fined $100K, avoids suspension for toss - ESPN",
-		"description": "Jamal Murray was fined $100K but avoided a suspension after tossing multiple objects in the direction of an official during Denver's Game 2 loss.",
-		"url": "https://www.espn.com/nba/story/_/id/40102961/nuggets-jamal-murray-fined-100k-avoids-suspension-toss",
-		"urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0507%2Fr1329525_1296x729_16%2D9.jpg",
-		"publishedAt": "2024-05-07T23:44:00Z",
-		"content": "Nuggets guard Jamal Murray was fined $100,000 but avoided a suspension after tossing a towel and then a heating pad in the direction of an official during Denver's 106-80 Game 2 loss to the Minnesota… [+1512 chars]"
-	},
-	{
-		"source": {
-			"id": null,
-			"name": "BBC News"
-		},
-		"author": null,
-		"title": "China's Xi Jinping gets red-carpet welcome in Serbia - BBC.com",
-		"description": "Serbia has been deepening its relationship with China while continuing talks to join the EU.",
-		"url": "https://www.bbc.com/news/articles/cm54pp11x3go",
-		"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e96b/live/a1761a10-0ccf-11ef-95a9-230b1338906e.jpg",
-		"publishedAt": "2024-05-07T23:01:20Z",
-		"content": null
-	},
-	{
-		"source": {
-			"id": "google-news",
-			"name": "Google News"
-		},
-		"author": null,
-		"title": "Cleveland Cavaliers @ Boston Celtics Game 1 | #NBAplayoffs presented by Google Pixel Live Scoreboard - NBA",
-		"description": null,
-		"url": "https://families.google.com/service-restricted",
-		"urlToImage": null,
-		"publishedAt": "2024-05-07T22:56:52Z",
-		"content": null
-	},
-	{
-		"source": {
-			"id": "bloomberg",
-			"name": "Bloomberg"
-		},
-		"author": "Steven Church",
-		"title": "FTX Has Billions More Than It Needs to Repay Its More Than Two Million Customers - Bloomberg",
-		"description": "Cryptocurrency exchange FTX has amassed billions of dollars more than it needs to cover what customers lost in its November 2022 collapse, setting them up to receive full recoveries under the company’s bankruptcy.",
-		"url": "https://www.bloomberg.com/news/articles/2024-05-07/ftx-has-billions-more-than-needed-to-repay-bankruptcy-victims",
-		"urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izwDzMm5EfN8/v0/1200x800.jpg",
-		"publishedAt": "2024-05-07T22:40:54Z",
-		"content": "Cryptocurrency exchange FTX has amassed billions of dollars more than it needs to cover what customers lost in its November 2022 collapse, setting them up to receive full recoveries under the company… [+208 chars]"
-	},
-	{
-		"source": {
-			"id": "bloomberg",
-			"name": "Bloomberg"
-		},
-		"author": "Rachel Metz",
-		"title": "OpenAI Is Readying a Search Product to Rival Google, Perplexity - Bloomberg",
-		"description": "The feature would let ChatGPT users search the web and cite sources in its results.",
-		"url": "https://www.bloomberg.com/news/articles/2024-05-07/openai-is-readying-an-ai-search-product-to-rival-google-perplexity",
-		"urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEAde6YXylRU/v1/1200x799.jpg",
-		"publishedAt": "2024-05-07T22:26:14Z",
-		"content": "OpenAI is developing a feature for ChatGPT that can search the web and cite sources in its results, according to a person familiar with the matter, potentially competing head on with Alphabet Inc.s G… [+548 chars]"
-	},
-	{
-		"source": {
-			"id": "associated-press",
-			"name": "Associated Press"
-		},
-		"author": "JAMIE STENGLE",
-		"title": "Boy Scouts is changing its name to Scouting America - The Associated Press",
-		"description": "The Boy Scouts of America is changing its name for the first time in its 114-year history. The Texas-based organization announced Tuesday that it would become Scouting America. It's a significant shift for the organization as it emerges from bankruptcy after …",
-		"url": "https://apnews.com/article/boy-scouts-new-name-scouting-america-d583f5712680f155b4f6b762128734d3",
-		"urlToImage": "https://dims.apnews.com/dims4/default/e77b034/2147483647/strip/true/crop/2323x1307+0+121/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7b%2Fdf%2F5943862ed16d5989a09e26a73ff9%2Fdca8db9105964f9a92095452cb21f9fb",
-		"publishedAt": "2024-05-07T22:11:00Z",
-		"content": "IRVING, Texas (AP) The Boy Scouts of America is changing its name for the first time in its 114-year history and will become Scouting America. Its a significant shift as the organization emerges from… [+4254 chars]"
-	},
-	{
-		"source": {
-			"id": null,
-			"name": "Live Science"
-		},
-		"author": "Stephanie Pappas",
-		"title": "Epic NASA video takes you to the heart of a black hole — and destroys you in seconds - Livescience.com",
-		"description": "What would it be like to fall past the event horizon of a black hole? A new NASA simulation provides a peek into the bizarre physics of spaghettification.",
-		"url": "https://www.livescience.com/space/black-holes/epic-nasa-video-takes-you-to-the-heart-of-a-black-hole-and-destroys-you-in-seconds",
-		"urlToImage": "https://cdn.mos.cms.futurecdn.net/LU5KM3S9TEHBafFrMisqSn-1200-80.jpg",
-		"publishedAt": "2024-05-07T21:37:24Z",
-		"content": "Ever wondered what it would be like to fall into a black hole\r\n? A new NASA simulation has the answer — including the inevitable, crushing end. \r\nResearchers created the new simulation using the Disc… [+3453 chars]"
-	},
-	{
-		"source": {
-			"id": "reuters",
-			"name": "Reuters"
-		},
-		"author": "Reuters",
-		"title": "US revokes some export licenses for China's Huawei - Reuters",
-		"description": null,
-		"url": "https://www.reuters.com/technology/us-revoked-some-export-licenses-chinas-huawei-2024-05-07/",
-		"urlToImage": null,
-		"publishedAt": "2024-05-07T21:14:00Z",
-		"content": null
-	},
-	{
-		"source": {
-			"id": null,
-			"name": "9to5google.com"
-		},
-		"author": "Ben Schoon",
-		"title": "Google offering solid trade-in values towards Pixel 8a for previous A-Series phones - 9to5Google",
-		"description": "Google is offering some excellent Pixel 8a trade-in values, with especially good prices for older A-Series Pixel phones.",
-		"url": "http://9to5google.com/2024/05/07/google-pixel-8a-trade-in-values/",
-		"urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/Google-Pixel-8a-v5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-		"publishedAt": "2024-05-07T21:00:00Z",
-		"content": "Google just launched the Pixel 8a and, through the Google Store, it’s offering the device for free with select trade-ins. If you’re upgrading from a previous Pixel A-Series device, too, Google has so… [+2779 chars]"
-	},
-	{
-		"source": {
-			"id": null,
-			"name": "Android Central"
-		},
-		"author": "Vishnu Sarangapurkar",
-		"title": "Google brings May update to Pixel phones with bug fixes - Android Central",
-		"description": "The new update rollout begins today for the global versions of Pixel 5a and above.",
-		"url": "https://www.androidcentral.com/apps-software/google-announces-may-2024-update-to-pixel-phones",
-		"urlToImage": "https://cdn.mos.cms.futurecdn.net/LmWknuwaArYGhwNhZ6FWzB-1200-80.jpg",
-		"publishedAt": "2024-05-07T20:51:46Z",
-		"content": "What you need to know\r\n<ul><li>The May update rollout for Pixel phones begins today (May. 7).</li><li>It brings stability improvements to the devices and fixes some camera performance issues for the … [+2106 chars]"
-	},
-	{
-		"source": {
-			"id": "the-washington-post",
-			"name": "The Washington Post"
-		},
-		"author": "Teddy Amenabar",
-		"title": "Olive oil use associated with lower risk of dying from dementia - The Washington Post",
-		"description": "A study has found that daily olive oil consumption is associated with a lower risk of dying from dementia.",
-		"url": "https://www.washingtonpost.com/wellness/2024/05/07/olive-oil-dementia-lower-risk/",
-		"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G2BJL5E2LCQ72Z7HQJRBPVEO2Q.jpg&w=1440",
-		"publishedAt": "2024-05-07T20:23:27Z",
-		"content": "Is olive oil really a health boon? Or is it just a sign of healthy eating habits?\r\nA study published in JAMA Network Open on Monday rekindles that debate. The observational study led by researchers a… [+189 chars]"
-	},
-	{
-		"source": {
-			"id": "al-jazeera-english",
-			"name": "Al Jazeera English"
-		},
-		"author": "Mat Nashed",
-		"title": "'The goal is to destroy Gaza': Why Israel rejects a ceasefire with Hamas - Al Jazeera English",
-		"description": "Israel has rejected a ceasefire and launched an operation in Rafah, raising fears that the war in Gaza could drag on.",
-		"url": "https://www.aljazeera.com/news/2024/5/7/the-goal-is-to-destroy-gaza-why-israel-rejects-a-ceasefire-with-hamas",
-		"urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/05/AA-20240507-34485334-34485325-DISPLACEMENT_OF_PALESTINIANS_EAST_OF_RAFAH_TO_SAFE_AREAS-1715073102.jpg?resize=1920%2C1440",
-		"publishedAt": "2024-05-07T20:07:21Z",
-		"content": "Israel appears to have been blindsided by Hamass announcement on Monday that it had agreed to an Egyptian-Qatari ceasefire proposal. But the Israeli government quickly made its position clear the pro… [+7091 chars]"
-	}
-]
+		{
+			"article_id": "70ac14a0510567b51119a0621584e1cf",
+			"title": "Türkiye’nin ilk Anne Müzesi Atatürk’ün zıbınını sergiliyor",
+			"link": "https://www.sozcu.com.tr/turkiye-nin-ilk-anne-muzesi-ataturk-un-zibinini-sergiliyor-p46555",
+			"keywords": null,
+			"creator": null,
+			"video_url": null,
+			"description": "Zübeyde Hanım’ın Mustafa Kemal Atatürk’ün küçüklüğüne ait olarak koruyup Selanik’ten Türkiye’ye gelirken sandığında getirdiği zıbın, 143 yıl sonra Türk halkının ziyaretine açıldı.",
+			"content": "ONLY AVAILABLE IN PAID PLANS",
+			"pubDate": "2024-05-11 02:00:03",
+			"image_url": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2024/5/423jpg-ij9ugDjjZk60Yifv-hD-Dg.jpg",
+			"source_id": "sozcu",
+			"source_priority": 23577,
+			"source_url": "https://www.sozcu.com.tr",
+			"source_icon": "https://i.bytvi.com/domain_icons/sozcu.png",
+			"language": "turkish",
+			"country": ["turkey"],
+			"category": ["politics"],
+			"ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+			"ai_region": "ONLY AVAILABLE IN CORPORATE PLANS"
+		}
+	],
+	"nextPage": "1715392803417201223"
+}
